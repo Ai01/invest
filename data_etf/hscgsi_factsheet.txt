@@ -1,0 +1,422 @@
+Hang Seng Consumption Index
+September 2026
+Hang Seng Consumption Index (“HSCGSI”) aims to reflect the overall performance of stocks listed in Hong Kong that provide goods and services 
+relating to daily consumption.
+FEATURES
+Includes 50 largest Hang Seng 
+Composite Index constituents that are 
+classified under certain subsectors in 
+Consumer Discretionary and Consumer 
+Staples
+■
+Constituents are freefloat-adjusted for 
+investability representation
+■
+Capping is applied to avoid single stock 
+domination 
+■
+ 
+INFORMATION
+Launch Date
+17 Aug 2015
+Backdated To
+5 Mar 2010
+Base Date
+5 Mar 2010
+Base Index
+3,000
+Review
+Half-yearly
+Dissemination
+Every 2 sec
+Currency
+HKD
+Total Return Index
+Available
+No. of Constituents
+50
+VENDOR CODES
+Refinitiv
+.HSCGSI
+Bloomberg
+HSCGSI
+CONTACT US
+Email
+info@hsi.com.hk
+Data has been rebased at 100.00. All information for an index prior to its launch date is back-tested, back-tested performance 
+reflects hypothetical historical performance.
+ 
+INDEX PERFORMANCE
+% Change
+Index
+Index Level 1 - Mth 3 - Mth
+6 - Mth
+1 - Yr
+3 - Yr*
+5 - Yr*
+YTD
+HSCGSI
+2,205.29
+-6.69
+-1.48
+-11.92
+-21.50
+-4.37
+-10.52
+-14.57
+HSCI
+3,630.08
+-3.75
++5.88
+-2.45
+-12.70
++10.62
+-0.99
+-7.10
+*Annualised
+ 
+INDEX FUNDAMENTALS
+Annual Volatility*(%)
+Index
+Dividend Yield (%)
+PE Ratio (Times)
+1 - Yr
+3 - Yr
+5 - Yr
+HSCGSI
+4.78
+13.21
+18.09
+24.37
+27.03
+*Annual Volatility was calculated based on daily return for the past 12-month, 36-month and 60-month period.
+ 
+All data as at 30 Sep 2026
+Disclaimer 
+The information contained herein is for reference only. Hang Seng Indexes Company Limited (“Hang Seng Indexes”) ensures the accuracy and reliability of the information contained herein to the best of its endeavours. However, Hang Seng Indexes makes no 
+warranty or representation as to the accuracy, completeness or reliability of any of the information contained herein and accepts no liability (whether in tort or contract or otherwise) whatsoever to any person for any damage or loss of any nature arising from or as 
+a result of reliance on any of the contents of this document, or any errors or omissions in its contents and such contents may change from time to time without notice. 
+The information contained herein does not constitute any express or implied advice or recommendation by Hang Seng Indexes for any investments. Investment involves risks. Prospective investors should not make any investment decision based solely on the 
+information provided herein and should seek independent investment advice to ensure that any of their decisions is made with regard to their own investment objectives, financial circumstances and other particular needs. Prospective investors should also note 
+that value of securities and investments can go down as well as up and past performance is not necessarily indicative of future performance. 
+Hang Seng Indexes is a subsidiary of Hang Seng Bank Limited which is part of the group of companies under HSBC Holdings plc (“HSBC Group”). Potential conflicts of interest may arise between Hang Seng Indexes and other HSBC Group member(s). To 
+manage actual or potential conflicts of interest, Hang Seng Indexes has in place policies and/or procedures to identify and manage conflicts of interest that relate to the creation, submission and administration of its indexes and/or that may arise between Hang 
+Seng Indexes and other HSBC Group member(s). To reduce and avoid such conflicts of interest, each of Hang Seng Indexes and other HSBC Group members has its independent management structure and each entity acts independently and on an arm’s 
+length basis.
+© Hang Seng Indexes Company Limited 2026. All rights reserved.
+www.hsi.com.hk
+ 
+A wholly-owned subsidiary of Hang Seng Bank
+CONSTITUENTS
+Stock Code
+ISIN CODE
+Company Name
+Industry Classification
+Share Type
+Weighting (%)
+0669
+HK0669013440
+TECHTRONIC IND
+Consumer Discretionary
+HK Ordinary
+10.36
+9992
+KYG7170M1033
+POP MART
+Consumer Discretionary
+Other HK-listed Mainland Co.
+8.97
+9987
+US98850P1093
+YUM CHINA
+Consumer Discretionary
+Other HK-listed Mainland Co.
+8.94
+2020
+KYG040111059
+ANTA SPORTS
+Consumer Discretionary
+Other HK-listed Mainland Co.
+8.28
+9633
+CNE100004272
+NONGFU SPRING
+Consumer Staples
+H Share
+6.44
+0300
+CNE100006M58
+MIDEA GROUP
+Consumer Discretionary
+H Share
+4.56
+2319
+KYG210961051
+MENGNIU DAIRY
+Consumer Staples
+Other HK-listed Mainland Co.
+4.44
+0288
+KYG960071028
+WH GROUP
+Consumer Staples
+HK Ordinary
+4.43
+6690
+CNE1000048K8
+HAIER SMARTHOME
+Consumer Discretionary
+H Share
+3.94
+0291
+HK0291001490
+CHINA RES BEER
+Consumer Staples
+Red Chip
+2.44
+2331
+KYG5496K1242
+LI NING
+Consumer Discretionary
+Other HK-listed Mainland Co.
+2.33
+2313
+KYG8087W1015
+SHENZHOU INTL
+Consumer Discretionary
+Other HK-listed Mainland Co.
+2.31
+0168
+CNE1000004K1
+TSINGTAO BREW
+Consumer Staples
+H Share
+1.89
+0322
+KYG8878S1030
+TINGYI
+Consumer Staples
+Other HK-listed Mainland Co.
+1.84
+1070
+KYG8701T1388
+TCL ELECTRONICS
+Consumer Discretionary
+Other HK-listed Mainland Co.
+1.78
+1929
+KYG211461085
+CHOW TAI FOOK
+Consumer Discretionary
+Other HK-listed Mainland Co.
+1.74
+6181
+CNE100006JG0
+LAOPU GOLD
+Consumer Discretionary
+H Share
+1.73
+3998
+KYG126521064
+BOSIDENG
+Consumer Discretionary
+Other HK-listed Mainland Co.
+1.50
+6862
+KYG4290A1013
+HAIDILAO
+Consumer Discretionary
+Other HK-listed Mainland Co.
+1.46
+6969
+KYG8245V1023
+SMOORE INTL
+Consumer Discretionary
+HK Ordinary
+1.40
+1910
+LU0633102719
+SAMSONITE
+Consumer Discretionary
+Foreign Company
+1.39
+0780
+KYG8918W1069
+TONGCHENGTRAVEL
+Consumer Discretionary
+Other HK-listed Mainland Co.
+1.15
+1364
+KYG4212T1058
+GUMING
+Consumer Staples
+Other HK-listed Mainland Co.
+1.09
+0151
+KYG9431R1039
+WANT WANT CHINA
+Consumer Staples
+Other HK-listed Mainland Co.
+1.07
+6186
+KYG2121Q1055
+CHINA FEIHE
+Consumer Staples
+Other HK-listed Mainland Co.
+1.06
+1044
+KYG4402L1510
+HENGAN INT'L
+Consumer Staples
+Other HK-listed Mainland Co.
+1.00
+1876
+KYG1674K1013
+BUD APAC
+Consumer Staples
+HK Ordinary
+0.94
+2367
+KYG3887G1091
+GIANT BIOGENE
+Healthcare
+Other HK-listed Mainland Co.
+0.94
+0142
+BMG348041077
+FIRST PACIFIC
+Consumer Staples
+HK Ordinary
+0.91
+0551
+BMG988031446
+YUE YUEN IND
+Consumer Discretionary
+HK Ordinary
+0.81
+0220
+KYG9222R1065
+U-PRESID CHINA
+Consumer Staples
+Other HK-listed Mainland Co.
+0.73
+9896
+KYG6180F1081
+MNSO
+Consumer Discretionary
+Other HK-listed Mainland Co.
+0.73
+2097
+CNE100006T36
+MIXUE GROUP
+Consumer Staples
+H Share
+0.66
+0325
+KYG1R24P1085
+BLOKS
+Consumer Discretionary
+Other HK-listed Mainland Co.
+0.65
+1318
+CNE100006PM5
+MAO GEPING
+Healthcare
+H Share
+0.63
+0590
+BMG5695X1258
+LUK FOOK HOLD
+Consumer Discretionary
+HK Ordinary
+0.60
+1579
+KYG984191075
+YIHAI INTL
+Consumer Staples
+Other HK-listed Mainland Co.
+0.59
+0546
+KYG368441195
+FUFENG GROUP
+Consumer Staples
+Other HK-listed Mainland Co.
+0.53
+6979
+KYG989BA1027
+ZJLD
+Consumer Staples
+Other HK-listed Mainland Co.
+0.53
+1368
+KYG982771092
+XTEP INT'L
+Consumer Discretionary
+Other HK-listed Mainland Co.
+0.47
+2698
+KYG8263A1058
+SOFTCARE
+Consumer Staples
+HK Ordinary
+0.41
+1768
+CNE100007DZ1
+BUSYMING
+Consumer Staples
+H Share
+0.38
+1999
+BMG5800U1071
+MAN WAH HLDGS
+Consumer Discretionary
+HK Ordinary
+0.34
+9985
+KYG9T20T1051
+WL DELICIOUS
+Consumer Staples
+Other HK-listed Mainland Co.
+0.32
+2460
+KYG2135N1060
+CR BEVERAGE
+Consumer Staples
+Red Chip
+0.28
+6993
+KYG1193D1097
+BLUE MOON GROUP
+Consumer Staples
+Other HK-listed Mainland Co.
+0.27
+6110
+KYG8924B1041
+TOPSPORTS
+Consumer Discretionary
+Other HK-listed Mainland Co.
+0.24
+2580
+KYG0676D1079
+AUX ELECTRIC
+Consumer Discretionary
+Other HK-listed Mainland Co.
+0.22
+6808
+HK0000083920
+SUNART RETAIL
+Consumer Staples
+Other HK-listed Mainland Co.
+0.16
+6600
+CNE100007DF3
+ONEROBOTICS
+Consumer Discretionary
+H Share
+0.12
+Total
+100.00
+ 
+www.hsi.com.hk
+Weightings may not add up to the total due to rounding
+A wholly-owned subsidiary of Hang Seng Bank
